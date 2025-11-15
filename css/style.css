@@ -147,7 +147,7 @@ main {
 }
 .vacations {
     width: 952px;
-    height: 981px;
+    height: fit-content;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
