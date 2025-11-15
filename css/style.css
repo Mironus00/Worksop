@@ -150,7 +150,6 @@ main {
     height: fit-content;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     gap: 12px;
 }
 .vacation-column {
